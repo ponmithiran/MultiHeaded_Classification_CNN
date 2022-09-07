@@ -2,7 +2,7 @@
 Multi-headed image classification using CNN on the Deep Fashion dataset
 
 # Dataset
-Please download and unzip the FashionDataset.zip onto your working directory
+'FashionDataset' directory contains all the necessary data for training the model. The 'FashionDataset.zip' file can be used as backup.
 
 # Execution
 1) Please setup your conda environment with the necessary SDKs are captured below:

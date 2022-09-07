@@ -6,13 +6,13 @@ Please download and unzip the FashionDataset.zip onto your working directory
 
 # Execution
 1) Please setup your conda environment with the necessary SDKs are captured below:
-  - PyTorch
-  - Matplotlib
-  - Pandas
-  - NumPy
+ 	- PyTorch
+ 	- Matplotlib
+ 	- Pandas
+ 	- NumPy
 
 2) Continue to open 'BasicFashionModel.ipynb' on your Jupyter Notebook (or any compatible IDE)
-  - You may also use the Python script for personal preference
+ 	- You may also use the Python script for personal preference
 
 3) Run the script with CUDA (default) if you have GPU available to train the model
 
